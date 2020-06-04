@@ -7,11 +7,11 @@
         ⇧ ⌥ ↑ / ↓
         Ctrl + Alt+ ↑ / ↓
 */
-
-const hulk = 'brouce banner';
-const Hawkeye = 'cinton francis';
-const ironman = 'tony stark';
-const spiderman = 'peter parker';
+    
+const hulk       = 'brouce banner';
+const Hawkeye    = 'cinton francis';
+const ironman    =  'tony stark';
+const spiderman  = 'peter parker';
 const viudaNegra = 'natalia romanova';
 
 
